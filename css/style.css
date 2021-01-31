@@ -1,0 +1,95 @@
+.navbar-brand img{
+    width: 300px;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav a{
+    margin-right: 25px;
+}
+
+.navbar-custom{
+    background-color: #FFFBF0;
+}
+
+.img-responsive{
+    height: 400px;
+    margin-left: 100px;
+
+}
+
+.cover-color{
+    background-color: #FFFBF0;
+    padding-bottom: 70px;
+}
+
+.cover-font h1{
+    font-size: 60px;
+    color: #363958;
+}
+
+.cover-font h2{
+    font-size: 60px;
+    color: #FABE4C;
+}
+
+.cover-font p{
+    font-size: 16px;
+    color: #3E3E3E;
+    font-weight: 450;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #A4BC46, #A4BC46);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+.btn{
+    border: 1px solid transparent;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #A4BC46, #A4BC46);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+}
+.fa-shopping-cart{
+    padding-right: 10px;
+}
+
+.ecom-card{
+    border: 0;
+    border-radius: 20px;
+}
+
+.ecom-card img{
+    padding: 10px;
+}
+
+.product-bgc{
+    background-color: #F1F1F1;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.ecom-card-footer{
+    background-color: white;
+    border-top: 0;
+}
+
+.product-header h1{
+    font-size: 50px;
+    color: #363958;
+    font-weight: bold;
+}
+
+.products{
+    padding-bottom: 100px;
+}
